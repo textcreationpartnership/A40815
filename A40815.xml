@@ -1,0 +1,638 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of the descent of the Paraclet a sermon preach'd before the Right Honourable the Lord Mayor and court of aldermen at the Guild-Hall chappel, April 21, 1695, being the fourth Sunday after Easter / by Philip Falle ...</title>
+            <author>Falle, Philip, 1656-1742.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40815</idno>
+            <idno type="STC">Wing F339</idno>
+            <idno type="STC">ESTC R7090</idno>
+            <idno type="EEBO-CITATION">12801948</idno>
+            <idno type="OCLC">ocm 12801948</idno>
+            <idno type="VID">94069</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94069)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 379:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of the descent of the Paraclet a sermon preach'd before the Right Honourable the Lord Mayor and court of aldermen at the Guild-Hall chappel, April 21, 1695, being the fourth Sunday after Easter / by Philip Falle ...</title>
+                  <author>Falle, Philip, 1656-1742.</author>
+               </titleStmt>
+               <extent>[8], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Newton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement on p. [8].</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Skepticism --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:94069:1"/>
+            <p>Mr. <hi>FALLE</hi>'s SERMON Before the Lord Mayor, <hi>April</hi> 21. 1695.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:94069:2"/>
+            <opener>
+               <salute>Lane, Mayor.</salute>
+               <dateline>
+                  <date>Martis xxiii<hi rend="sup">o</hi>. <hi>die</hi> Aprilis, 1695. <hi>Anno<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Regis</hi> WILLELMI <hi>Tertii</hi> Angliae, &amp;c. <hi>Septimo.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THis Court doth deſire Mr. <hi>Falle</hi> to Print his SERMON, Preach'd on Sunday laſt at the <hi>Guild-hall</hi> Chappel, before the LORD MAYOR, and ALDERMEN of this City.</p>
+            <closer>
+               <signed>Goodfellow.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>IMPRIMATUR.</p>
+            <closer>
+               <signed>Guil. Lancaſter.</signed>
+               <dateline>
+                  <date>
+                     <hi>April</hi> 25. 1695.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:94069:2"/>
+            <p>
+               <hi>Of the Deſcent of the PARACLET.</hi>
+            </p>
+            <p>A SERMON PREACH'D Before the Right Honourable THE LORD MAYOR, AND Court of <hi>ALDERMEN,</hi> AT THE GUILD-HALL Chappel, <hi>April</hi> 21. 1695.</p>
+            <p>Being the Fourth Sunday after <hi>Eaſter.</hi>
+            </p>
+            <p>By <hi>PHILIP FALLE,</hi> Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Newton,</hi> at the <hi>Three Pigeons,</hi> over againſt the <hi>Inner Temple</hi> Gate, in <hi>Fleetſtreet.</hi> 1695.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:94069:3"/>
+            <pb facs="tcp:94069:3"/>
+            <head>TO The Right Honourable S<hi rend="sup">r.</hi> Thomas Lane, LORD MAYOR OF The City of <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>SO many Excellent Diſcourſes have been already written againſt Scep<g ref="char:EOLhyphen"/>ticiſm, and in Defence of Chriſtianity, that I might juſtly be deterr'd from coming
+<pb facs="tcp:94069:4"/>after Others, if the Command of that <hi>Honourable Court,</hi> where <hi>Your Lordſhip</hi> ſo worthily Preſides, had not call'd for the Publication of this <hi>Sermon.</hi> I could not foreſee, it ſhould be longer-liv'd than many better Compoſures of this Kind; which, after they have ſerv'd for an Hour's A<g ref="char:EOLhyphen"/>muſement, are thrown aſide, and vaniſh with the Breath of the Preacher: and therefore was not much concern'd to give it that Turn and Air, that is given to Things, which, from their Firſt Concep<g ref="char:EOLhyphen"/>tion, are deſign'd for the Preſs. Such as 'tis, I leave it to God's Bleſſing: ear<g ref="char:EOLhyphen"/>neſtly wiſhing that it may conduce to ſettle the Minds of thoſe who ſhall chance to read it, in an hearty Belief of that Holy Religion which God has Reveal'd unto us by his Son, and confirm'd by the Miniſtry of the PARACLET; whoſe Miraculous Effuſion on the Apoſtles, and Apoſtolic
+<pb facs="tcp:94069:4"/>Men, in the Firſt Ages of the Church, we commemorate at this Time: And may that Bleſſed Spirit <hi>guide us into all Truth</hi>
+               <note n="*" place="margin">Joh. xvi. 13.</note>. I am,</p>
+            <closer>
+               <salute>MY LORD,</salute>
+               <signed>YO<g ref="char:V">Ʋ</g>R LORDSHIP's <hi>Moſt Humble, and Moſt Obedient Servant, Philip Falle.</hi>
+               </signed>
+               <dateline>
+                  <hi>Whitſun-Eve,</hi> 
+                  <date>
+                     <hi>1695.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:94069:5"/>
+            <head>ADVERTISEMENTS.</head>
+            <p>
+               <hi>SERMON</hi> ſur l'Hymne Angélique &amp; Euchariſtique, <hi>Luc.</hi> ii. 14. Prononcé dans l'Egliſe de <hi>St. Sauveur</hi> en l'Iſle de <hi>JERSEY,</hi> le <hi>3me</hi> jour d'<hi>Avril.</hi> 1687, Jour de Céne.</p>
+            <p>A <hi>SERMON</hi> on <hi>Luk.</hi> iii. 14. Preach'd at St. <hi>Helier,</hi> in the Iſle of <hi>JERSEY,</hi> before the Engliſh Garriſon, <hi>April</hi> 10. 1692.</p>
+            <p>
+               <hi>Of the Impunity of Bad Men in the World. A SER<g ref="char:EOLhyphen"/>MON</hi> on <hi>Eccleſ.</hi> viii. 11. Preach'd at <hi>White-hall, Dec.</hi> 30. 1694.</p>
+            <p>An Account of the Iſle of <hi>JERSEY,</hi> the Greateſt of thoſe Iſlands that are now the only Remainder of the Engliſh Dominions in <hi>France;</hi> with a New and Accurate Map of the Iſland. Humbly dedicated to His Majeſty.</p>
+            <p>Written by <hi>PHILIP FALLE,</hi> M. A. Deputy from the States of the ſaid Iſland, and Chaplain in Ordinary to His Majeſty; and Printed for <hi>John Newton</hi> in <hi>Fleetſtreet.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:94069:5"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOHN. xvi. 7.</hi>
+                  </bibl>
+                  <p>
+                     <hi>Being part of the Goſpel of the Day.</hi>
+                  </p>
+                  <p>Nevertheleſs, I tell you the Truth; it is expe<g ref="char:EOLhyphen"/>dient for you that I go away: For if I go not a<g ref="char:EOLhyphen"/>way, the Comforter will not come unto you: but if I depart, I will ſend him unto you.</p>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>JOHN. xvi. 8.</hi>
+                  </bibl>
+                  <p>
+                     <hi>Being part of the Goſpel of the Day.</hi>
+                  </p>
+                  <p>And when he is come, he will reprove the world of Sin, and of Righteouſneſs, and of Judgment:</p>
+               </q>
+               <q>
+                  <bibl>JOHN. xvi. 9.</bibl>
+                  <p>Being part of the Goſpel of the Day.</p>
+                  <p>
+                     <hi>Of Sin, becauſe they believe not on me;</hi>
+                  </p>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>JOHN. xvi. 10.</hi>
+                  </bibl>
+                  <p>
+                     <hi>Being part of the Goſpel of the Day.</hi>
+                  </p>
+                  <p>Of Righteouſneſs, becauſe I go to my Father, and ye ſee me no more;</p>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>JOHN. xvi. 11.</hi>
+                  </bibl>
+                  <p>
+                     <hi>Being part of the Goſpel of the Day.</hi>
+                  </p>
+                  <p>Of Judgment, becauſe the Prince of this world is judged.</p>
+               </q>
+            </epigraph>
+            <p>THESE are the Words of our Bleſſed Saviour to his Diſciples, when he was going to leave them, and to depart from the World. He had fulfill'd all that belong'd to his Prophetick Office by a Three Years Miniſtry on Earth: He had reveal'd the Will of God to Mankind: He had gather'd a Church: He had ordain'd Apoſtles and Teach<g ref="char:EOLhyphen"/>ers: Nothing remain'd but that he ſhould ſuffer, and return to his Father that had ſent him. And
+<pb n="2" facs="tcp:94069:6"/>now therefore, <hi>having lov'd his own which were in the World unto the end</hi>
+               <note n="(a)" place="margin">Joh. xiii. 1.</note>, he calls them together before his Paſſion, eats his laſt Supper with them, and in the moſt tender and moving Words that ever Man ſpake, I mean in that admirable Diſ<g ref="char:EOLhyphen"/>courſe contain'd in This and the Three forego<g ref="char:EOLhyphen"/>ing Chapters, acquaints them with his going a<g ref="char:EOLhyphen"/>way from them. Theſe were ſad News to the Diſciples, and their Grief was extream on this Occaſion. They had forſaken all to follow him, and now in requital he was going to leave them: They had drawn upon them the Hatred of the World by adhering to him, and they were ſure to meet with nothing but Perſecution from it af<g ref="char:EOLhyphen"/>ter he was gone: Which way ſoever they look'd, they had but a Proſpect of dark and gloomy Days coming upon them: and this mightily de<g ref="char:EOLhyphen"/>jected them, and fill'd their Minds with melan<g ref="char:EOLhyphen"/>choly Boadings and Apprehenſions of what might befall them, when they ſhould be depriv'd of the Support they now receiv'd from his Preſence a<g ref="char:EOLhyphen"/>mong them. Our Lord bids them <hi>not to be trou<g ref="char:EOLhyphen"/>bled</hi> at his Departure<note n="(b)" place="margin">Joh. xiv. 1.</note>; for he would be ſo far from <hi>leaving them</hi> (as they fear'd) <hi>helpleſs and a<g ref="char:EOLhyphen"/>lone</hi>
+               <note n="(c)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. ibid. verſ. 18.</note>, expos'd to the Fury and the Rage of the World, that he would ſend them the <hi>Comforter,</hi> as ſoon as he was aſcended unto his Father, the
+<pb n="3" facs="tcp:94069:6"/>Glorious Spirit of God, who would be a mighty Succour and Defence to them, and would <hi>abide</hi> and continue <hi>for ever</hi> with them<note n="(d)" place="margin">Verſ. 16.</note>. It was this Bleſſed Spirit (he goes on to tell them) that was to plead and to maintain his Cauſe againſt the World that had rejected him, but could not come down till <hi>he was glorified</hi>
+               <note n="(e)" place="margin">Joh. vii. 39.</note>: Therefore it was neceſſary he ſhould ſpeedily go away to ſend him down on Earth, that he might vindicate him a<g ref="char:EOLhyphen"/>mong Men, ſhew them their Infidelity in not believing on him, their Cruelty and Injuſtice in Crucifying of him, aſſure them of his Divinity and Exaltation at the Right Hand of God, and ſeverely avenge him on all his Enemies, the Devil eſpecially, the chief Author of his Death and of his Sufferings. <hi>Nevertheleſs, I tell you the Truth; It is expedient for you that I go away: For if I go not away, the Comforter will not come unto you; but if I depart, I will ſend him unto you.</hi> Or, I will ſend him down from on High upon you, for ſo much the Word imports in the Original<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Quaſi ex arce demittam. <hi>Grot.</hi>
+               </note>. <hi>And when he is come, he will reprove the World of Sin, and of Righteouſneſs, and of Judgment: Of Sin, becauſe they believe not on me; Of Righteouſneſs, becauſe I go to my Father, and ye ſee me no more; Of Judg<g ref="char:EOLhyphen"/>ment, becauſe the Prince of this World is judged.</hi>
+            </p>
+            <pb n="4" facs="tcp:94069:7"/>
+            <p>I am fall'n this Day on one of the moſt Difficult Texts of Scripture. It has puzzl'd the Learned'ſt Men to find out the true Senſe and Meaning of this place.<note place="margin">See their Anno<g ref="char:EOLhyphen"/>tations on the Place.</note> The Incomparable <hi>Grotius,</hi> and the Excellent Dr. <hi>Hammond,</hi> have, in my Judgment, given the beſt Light to it, as they have done to many other Obſcure Paſſages of the Sacred Oracles.</p>
+            <p>The Difficulty that is in theſe Words lies not in the Promiſe which our B. Saviour makes to his Diſciples of ſending them the <hi>Comforter</hi> after his Departure; for that's plain enough, and it was exactly accompliſhed ſome time after, <hi>viz.</hi> on the Day of <hi>Pentecoſt:</hi> but in the Effects he tells them that Bleſſed Spirit would produce in the World at his Coming. <hi>And when he is come, he will reprove the World of Sin, and of Righteouſneſs, and of Judgment: Of Sin, becauſe they believe not on me; Of Righteouſneſs, becauſe I go to my Father, and ye ſee me no more; Of Judgment, becauſe the Prince of this World is judged.</hi> Theſe are the Words which I deſign more particularly to treat of at this time. I ſhall firſt briefly explain them, and then enlarge further upon them.</p>
+            <p>You muſt note then that our B. Saviour makes alluſion here to the Jewiſh way of pleading Cau<g ref="char:EOLhyphen"/>ſes, and managing Actions and Suits at Law after the mode of the Courts, and the method of the
+<pb n="5" facs="tcp:94069:7"/>Public Judicatories among that People in thoſe Daies. All the Words and the Terms here us'd are properly Words and Terms of Law; which ſeems not to have been Underſtood by common Expoſitors. There were Three ſorts of Actions uſual among the <hi>Jews</hi> in our Saviour's time, all which are alluded to by him in this place. The Firſt were thoſe that conſiſted in Condemning and Puniſhing Sinners and Offenders againſt God: as, Blaſphemers of his moſt Holy Name; Falſe Prophets, that feduc'd the People, pretending they came from God when he had not ſent them; and the like: Theſe they call'd Actions concern<g ref="char:EOLhyphen"/>ing <hi>Sin</hi>
+               <note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>; that is, <hi>Sin</hi> by way of Eminency, <hi>Sin</hi> that ſtruck directly and immediately at the Ho<g ref="char:EOLhyphen"/>nour, Veracity, or any other of the Attributes of God. The Next were thoſe that conſiſted in pro<g ref="char:EOLhyphen"/>tecting and defending Innocent Perſons from the Oppreſſions and Vexations of other Men; which therefore they call'd Actions concerning <hi>Righte<g ref="char:EOLhyphen"/>ouſneſs</hi>
+               <note n="‖" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>. The Laſt were when they demanded Vengeance, and urg'd the benefit of that great Law of Retaliation, expreſs'd in <hi>Leviticus</hi>
+               <note n="(f)" place="margin">xxiv. 20.</note>, and mention'd elſewhere<note n="(g)" place="margin">Exod. xxi. 23. Deut. xix. 21. Matt. v. 38.</note>, againſt thoſe that had injur'd them; by which Law it was ordained that whoever wrong'd another, it ſhould be re<g ref="char:EOLhyphen"/>paid back to him in the ſame kind: Theſe they
+<pb n="6" facs="tcp:94069:8"/>call'd Actions concerning <hi>Judgment</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>. To me it is very evident that our B. Saviour in the Text alludes to theſe Three ſorts of Actions (as he doth frequently in the Goſpel to many other Civil and Religious Cuſtoms that were in uſe among the <hi>Jews</hi> in his time) and applies them to the manner of the H. Ghoſt's vindicating him, and pleading his Cauſe againſt the World at his Deſcent.</p>
+            <p>The word <hi>PARACLET</hi> in the Original is ano<g ref="char:EOLhyphen"/>ther Key to unlock this difficult Text. <hi>If I go not away,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ΠΑΡΑΚΛΗΤΟΣ <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<hi>the PARACLET will not come unto you.</hi> For tho' the Word be commonly render'd <hi>The Comforter,</hi> it ſignifies al<g ref="char:EOLhyphen"/>ſo an <hi>Advocate,</hi> one that acts, ſollicits, and pleads for another: and the <hi>Jews</hi> (I mean the <hi>Jews Helle<g ref="char:EOLhyphen"/>niſts,</hi> for the Word in its primitive Derivation is a Greek Word<note n="†" place="margin">ΠΑΡΑΚΛΗ<g ref="char:EOLhyphen"/>ΤΟΣ Vox Grae<g ref="char:EOLhyphen"/>ca, frequens a<g ref="char:EOLhyphen"/>pud <hi>Judaeos</hi> in Verſione Chal<g ref="char:EOLhyphen"/>daeâ, &amp; apud <hi>Thalmudicos,</hi> non pro <hi>Conſo<g ref="char:EOLhyphen"/>latore,</hi> ſed pro eo qui cauſam agit alterius. <hi>Grot. in Joan. xiv. 16.</hi> PARACLE<g ref="char:EOLhyphen"/>TUS Judaeorum, &amp; PARACLE<g ref="char:EOLhyphen"/>TUS Samari<g ref="char:EOLhyphen"/>tanorum. <hi>Juchaſin. 138.2.</hi> ubi non <hi>Con<g ref="char:EOLhyphen"/>ſolatorem</hi> ſig<g ref="char:EOLhyphen"/>nificat, ſed <hi>Ad<g ref="char:EOLhyphen"/>vocatum,</hi> aut <hi>Patronum. Druſ. Praeter. Lib. IV. ad. Joan. xiv.</hi>
+               </note>) us'd it generally in this Senſe. 'Tis according to this known Acceptation of the word in his time that St. <hi>John,</hi> for inſtance, calls our B. Saviour himſelf Our <hi>PARACLET</hi>
+               <note n="(h)" place="margin">1 Ep. ii. 1.</note>: <hi>If any man ſin,</hi> ſays he, ΠΑΡΑΚΛΗΤΟΝ <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>We have a PARACLET with the Father, Jeſus Chriſt the Righteous:</hi> that is, (as our own Tranſlation renders it) <hi>We have an Advocate with the Father,</hi> one that will plead and defend our Cauſe at the Bar of Heaven, even the Lord <hi>Jeſus,</hi> who for this end is gone up on High, and ſits at
+<pb n="7" facs="tcp:94069:8"/>the Right Hand of God. And as the <hi>Jews</hi> call'd him that pleaded for another, ΠΑΡΑΚΛΗΤΟΣ<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>, ſo him that pleaded againſt him, and was his adverſe Party, they call'd <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note n="‖" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>, <hi>the Accu<g ref="char:EOLhyphen"/>ſer:</hi> which is the very Name given to the Devil in the <hi>Revelation</hi>
+               <note n="(i)" place="margin">xii. 10.</note>; He is there call'd <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Accuſer of the Brethren.</hi> Theſe Two do very appoſitely explain and illuſtrate each o<g ref="char:EOLhyphen"/>ther: As 'tis the Part of the Infernal Spirit to be the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Accuſer</hi> of Good Men, ſo 'tis the Of<g ref="char:EOLhyphen"/>fice of the H. Ghoſt to be their ΠΑΡΑΚΛΗΤΟΣ, that is, their <hi>Advocate,</hi> and their Defender. The <hi>Jews</hi> have a Saying, That <hi>he that does one Precept of the Law, gets him PARACLIT EHAD</hi>
+               <note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>, an <hi>Advocate,</hi> that will intercede to God for him: <hi>But he that tranſgreſſes one Precept of the Law, gets him</hi> Katigor-Ehad<note n="‖" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>, an <hi>Accuſer,</hi> that will charge and impeach him before God<note n="*" place="margin">Pirke Avoth. <hi>ceu,</hi> Lib. A<g ref="char:EOLhyphen"/>pophthegm. Hebraeor. Cap. IV. <hi>Vid.</hi> Joh. Buxtorf. Flo<g ref="char:EOLhyphen"/>rileg. Hebraic. <hi>ad vocem</hi> Prae<g ref="char:EOLhyphen"/>ceptum. p. 277.</note>. Our B. Saviour liv'd among the <hi>Jews,</hi> and expreſs'd himſelf as they did; therefore I doubt not, but this is the Notion he had of the Word <hi>PARACLET</hi> in the Text: which according<g ref="char:EOLhyphen"/>ly <hi>Beza,</hi> in his Latin Verſion, renders <hi>Advocatus; Niſi abiero Advocatus ille non veniet ad vos. Grotius</hi> ſays the old Latin Interpreters render'd it conſtantly thus<note n="†" place="margin">
+                  <p>Annot. ad Joan. xiv. 16.</p>
+                  <p>
+                     <hi>The word frequently occurrs in the ancient Greek Claſſical Writers, in the Senſe wherein we now take it, of an Advocate, or Interceſſor.</hi> Vid. Budaei Comment. Ling. Graec. Edit. Pariſ. An. MDXLVIII. pag. 802, 803. Ubi multa annotantur ex Aeſchin. Demoſth. Iſocr. &amp;c.</p>
+                  <p>Tertull. Lib. de Monogamiâ. Cap. III. <hi>In hoc quoque PARACLETUM agnoſcere debes Advocaium, quod à totâ Continentiâ infirmitatem tuam excuſat.</hi>
+                  </p>
+               </note>.</p>
+            <pb n="8" facs="tcp:94069:9"/>
+            <p>Further, that which our B. Saviour ſays the H. Ghoſt would do at his Coming, proves that he intended to ſpeak of him in this Senſe, and in this Notion, of an <hi>Advocate. And when he is come,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>he will reprove the World.</hi> The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is of the nature of the former, and pro<g ref="char:EOLhyphen"/>perly belongs to an <hi>Advocate</hi>
+               <note n="*" place="margin">Verbum hoc reſponde <hi>He<g ref="char:EOLhyphen"/>braeo</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp; Forenſe eſt, con<g ref="char:EOLhyphen"/>veniens Perſo<g ref="char:EOLhyphen"/>nae cauſarum actori. <hi>Grot.</hi>
+               </note>, who pleads the Cauſe of his Client with ſuch Force of Argument, and ſuch Evidence of Truth, that he confounds the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <hi>Adverſary,</hi> Silences him that pleads on the oppoſite ſide. The Word is us'd in this Senſe by St. <hi>Paul</hi>
+               <note n="(k)" place="margin">Tit. i. 9.</note>, when he ſays that the Duty of a Chriſtian Biſhop, is <hi>to hold faſt the faith<g ref="char:EOLhyphen"/>full Word, as he has been taught, that he may be able by ſound Doctrine, both to Exhort,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>and to Convince the Gainſayers.</hi> That is, ſo to plead the Cauſe of God and Religion, that he may ſtop the Mouths of all that ſpeak againſt them.</p>
+            <p>Theſe Remarks may not poſſibly ſeem ſo pro<g ref="char:EOLhyphen"/>per in a Diſcourſe of this Nature; but they were neceſſary to clear the Text. And now we may underſtand the words of our B. Saviour, as if he had ſpoke to his Diſciples in this manner. <q rend="margQuotes">The H. Ghoſt, whom I muſt go away to ſend down upon Earth, beſides what he will do more immediately for you, My Friends! whom
+<pb n="9" facs="tcp:94069:9"/>he will never leave, as I muſt leave you now, will be my <hi>PARACLET,</hi> my <hi>Advocate,</hi> a<g ref="char:EOLhyphen"/>gainſt the World when he comes; He will plead and he will defend my Cauſe, and he will lay in Three Actions againſt it in my Name. The Firſt will be <hi>concerning Sin</hi>
+                  <note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> —.</note>. The World, you know, has rejected me as a <hi>Blaſphemer</hi>
+                  <note n="(l)" place="margin">Mat. ix. 3. <hi>and</hi> xxvi. 65.</note>, and a Seducer, and a Falſe Prophet, and a Sinner againſt God. But when the H. Ghoſt comes down, he will charge the World with Infidelity at my Suit for <hi>not Be<g ref="char:EOLhyphen"/>lieving on me</hi>
+                  <note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>. He will demonſtrate that I am the Chriſt, the anointed of God, promiſed to the Fathers, foretold by the Scriptures, and ſo long expected by all the Nations of the Earth; and therefore that 'tis not I, but they, <hi>viz.</hi> the World, that is guilty of <hi>Sin</hi> and Blaſphemy a<g ref="char:EOLhyphen"/>gainſt God, for refuſing to <hi>believe</hi> on him whom he has ſent. Another Action which the H. Ghoſt, my <hi>PARACLET,</hi> will put in againſt the World on my behalf, will be <hi>concerning Righteouſneſs</hi>
+                  <note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> —.</note>. The World has treated me as the moſt flagitious Malefactor: I have been tax'd of ſome of the blackeſt and fouleſt Crimes: I have been traduc'd for a <hi>Sabbath-Breaker</hi>
+                  <note n="(m)" place="margin">Luke vi. 1. <hi>&amp;c.</hi> — xiii. 14.</note>, <hi>a Glutton, a Wine-Bibber, a friend of Publicans and Sinners</hi>
+                  <note n="(n)" place="margin">— vii. 34.</note>; and in few days ye ſhall ſee
+<pb n="10" facs="tcp:94069:10"/>me put to Death as a <hi>Robber</hi> and a <hi>Thief</hi>
+                  <note n="(o)" place="margin">Matt. xxvi. 55, <hi>&amp;c.</hi>
+                  </note>. But when the H. Ghoſt, my <hi>PARACLET,</hi> comes down, he will aſſert my Innocency a<g ref="char:EOLhyphen"/>gainſt the unjuſt Calumnies of the World: He will <hi>convince</hi> it of my <hi>Righteouſneſs:</hi> He will ſhew the wrong that has been done me, and how undeſervedly it is that I have ſuffer'd all theſe things from the hands of ſinfull and un<g ref="char:EOLhyphen"/>gratefull Men. If you ask how the H. Ghoſt will do this, that will be by publiſhing at his Deſcent how God has glorified me<note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>, rais'd me from the Grave where the Malice and Cru<g ref="char:EOLhyphen"/>elty of the World had laid me, reſtor'd me to a Life Glorious and Immortal, taken me up in<g ref="char:EOLhyphen"/>to the Manſions of the Bleſſed above, ſo that from hence forth <hi>ye ſee me no more</hi>
+                  <note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>, exalted me at his Right Hand and on his own Throne, reſign'd the Soveraignty and the Empire of the Uni<g ref="char:EOLhyphen"/>verſe into my hands, and <hi>given me all Power in Heaven and in Earth</hi>
+                  <note n="(p)" place="margin">Mat. xxviii. 18.</note>. This will be a clear Proof of my Innocency, ſince 'tis not to be ſup<g ref="char:EOLhyphen"/>pos'd that the moſt Holy and Juſt God would reward my Sufferings with ſo great a Glory, if I were a wicked Man and a Sinner: He would leave me in my Grave, and under the Power of Death, if the World had juſtly con<g ref="char:EOLhyphen"/>demn'd me<note n="‖" place="margin">Fatebitur Mundus me ve<g ref="char:EOLhyphen"/>rè juſtum fuiſſe, qui ex hoc mun<g ref="char:EOLhyphen"/>do diſcedens non fuerim d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mnatus à Patre. <hi>Beza.</hi>
+                  </note>. Now who fitter to <hi>convince the
+<pb n="11" facs="tcp:94069:10"/>World</hi> of this New Glorious Life of mine, and Exaltation at the Right Hand of my Father, than the H. Ghoſt, who, coming down from Heaven, ought beſt to know what has been done there, and is beſt able to declare it to the World? One Action more which the H. Ghoſt, my <hi>PARACLET,</hi> will put in againſt the World on my behalf, will be <hi>concerning Judgment</hi>
+                  <note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> —.</note>. He will demand Vengeance, and urge the Great Law of Retaliation againſt it. You have ſeen how the World has us'd me. 'Tis but juſt it ſuffer the Puniſhment due to its Unbelief and Cruelty towards Me; and that it will moſt eminently do when the H. Ghoſt comes down. For he will avenge me on all mine Enemies, thoſe that triumph and rejoyce now in my Shame, and in my Sufferings. He will avenge me eſpecially on the Devil, <hi>the Prince of this World</hi>
+                  <note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>, the chief Author and con<g ref="char:EOLhyphen"/>triver of my Death. He will deſtroy his King<g ref="char:EOLhyphen"/>dom, and execute ſo remarkable a <hi>Judgment</hi> upon him, that the whole World ſhall be aſto<g ref="char:EOLhyphen"/>niſh'd at it, and my Name ſhall be glorified among Men. This will the H. Ghoſt do, All theſe mighty Things will he bring to paſs at his Coming; Therefore when I ſay unto you that I go to ſend him, <hi>if ye loved me ye would re<g ref="char:EOLhyphen"/>joyce</hi>
+                  <note n="(q)" place="margin">Joh. xiv. 28.</note>,
+<pb n="12" facs="tcp:94069:11"/>and not mourn at my Departure.</q> 
+               <hi>And when he is come, he will reprove the World of Sin, and of Righteouſneſs, and of Judgment: Of Sin, be<g ref="char:EOLhyphen"/>cauſe they believe not on me; Of Righteouſneſs, be<g ref="char:EOLhyphen"/>cauſe I go to my Father, and ye ſee me no more; Of Judgment, becauſe the Prince of this World is judged.</hi> This I take to be the meaning of theſe Words, which I ſhall now apply my ſelf to conſider more particularly.</p>
+            <p n="1">I. The Firſt Thing that Our B. Saviour tells his Diſciples, the H. Ghoſt, his <hi>PARACLET,</hi> would <hi>reprove</hi> or <hi>convince the World of</hi> at his Coming, is <hi>Sin,</hi> for <hi>not believing on him.</hi>
+            </p>
+            <p>When the Son of God came into the World, though all the Characters that had been given of the <hi>Meſſiah</hi> in the Books and Oracles of the ancient Prophets were moſt exactly fulfill'd in his Perſon, he was nevertheleſs rejected by the World, as tho' he had been a <hi>Deceiver</hi>
+               <note n="(r)" place="margin">Matt. xxvii. 63.</note>, and had deſign'd to put a Trick upon it. The Miracles which he wrought were the great Evidences that he brought to prove the Divine Authority of his Miſſion, and he frequently appeals to them in the Goſpel. <hi>If I do not the Works of my Father, believe me not: But if I do, though you believe not me, believe the
+<pb n="13" facs="tcp:94069:11"/>Works</hi>
+               <note n="(ſ)" place="margin">Joh. x. 37, 38.</note>. But what effect had theſe Miracles upon the World? Some indeed confeſs'd that <hi>no man could do them, except God were with him</hi>
+               <note n="(t)" place="margin">Joh. iii. 2.</note>: but Others turn'd the Argument againſt him, and ſaid they were done by the Power of Charms and Enchantments, by a Pact and Colluſion with the Devil. <hi>He caſts out Devils by Beelzebub the Prince of the Devils</hi>
+               <note n="(u)" place="margin">Matth. xii. 24. Luke xi. 15.</note>. Thus the World did <hi>not be<g ref="char:EOLhyphen"/>lieve on him. Though he had done ſo many Miracles before them,</hi> ſays the Sacred Record<note n="(x)" place="margin">John xii. 37, <hi>&amp;c.</hi>
+               </note>, <hi>yet they believed not on him. That the Saying of</hi> Eſaias <hi>the Prophet</hi>
+               <note n="‖" place="margin">liii. 1.</note> 
+               <hi>might be fulfilled, which be ſpake, Lord, who hath believed our Report? Theſe things ſaid</hi> Eſai<g ref="char:EOLhyphen"/>as, <hi>when he ſaw his Glory, and ſpake of him.</hi>
+            </p>
+            <p>He therefore tells his Diſciples in the Text, that the H. Ghoſt at his Coming would <hi>convince the World</hi> of what it would not now <hi>believe:</hi> would put the Truth of his Miſſion in ſuch an open Day, that the World ſhould not any longer be able to deny him. It may indeed ſeem a matter of juſt Wonder, how the H. Ghoſt at his Coming ſhould demonſtrate the Truth of our Saviour's Miſſion with greater Force and Evidence than he had done himſelf. But 'tis moſt certain the H. Ghoſt (the <hi>PARACLET</hi>) did it, and that eſpecially Two waies.</p>
+            <pb n="14" facs="tcp:94069:12"/>
+            <p>
+               <hi>Firſt,</hi> By doing more and Greater Miracles<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. D. Cry<g ref="char:EOLhyphen"/>ſoſt. Hom. lxxvii. in Jo<g ref="char:EOLhyphen"/>an.</note> on Earth, by the hands of the Apoſtles, after his Deſcent upon them, than our Lord himſelf had done before in the Days of his Fleſh. The won<g ref="char:EOLhyphen"/>derfull Gift of Tongues beſtow'd on the Apoſtles, on the Day of <hi>Pentecoſt,</hi> being One of thoſe Great<g ref="char:EOLhyphen"/>er Miracles of the H. Ghoſt. That a few poor <hi>Ga<g ref="char:EOLhyphen"/>lileans,</hi> who before ſpake only the rude Dialect of their Province, and by their uncouth <hi>Speech be<g ref="char:EOLhyphen"/>wray'd themſelves</hi>
+               <note n="(y)" place="margin">Mat. xxvi. 73.</note> where-ever they went, as <hi>Peter</hi> did to the <hi>Damſel</hi> and others in the High Prieſt's Houſe, <hi>Thou art a Galilean, thy Speech a<g ref="char:EOLhyphen"/>greeth thereto</hi>
+               <note n="(z)" place="margin">Mark. xiv. 70.</note>: That theſe Men, I ſay, ſhould in an inſtant, without Study, meerly through a ſudden Impulſe or Inſpiration of the H. Ghoſt, be heard to ſpeak accurately and elegantly all the Various and the moſt Learned Languages of the World, and going to the utmoſt Bounds and Ex<g ref="char:EOLhyphen"/>tremities of the Earth, ſhould declare to every Na<g ref="char:EOLhyphen"/>tion in <hi>its own</hi> proper <hi>Tongue the wonderfull Works of God</hi>
+               <note n="(a)" place="margin">Acts ii. 11.</note>, was certainly a New and Unheard-of Miracle; ſuch a Miracle as the World had not been acquainted with before. <hi>Are not they which ſpeak Galileans?</hi> ſay the Multitudes: <hi>How then hear we every Man in our own Tongue wherein we were born</hi>
+               <note n="(b)" place="margin">ibid verſ. 7, 8.</note>? Our Bleſſed Lord himſelf, the Word and Wiſ<g ref="char:EOLhyphen"/>dom of the Father, never ſpake but one Language
+<pb n="15" facs="tcp:94069:12"/>only, during the whole Time that he liv'd among Men, <hi>viz.</hi> the Vulgar <hi>Syro-Chaldean</hi>
+               <note n="†" place="margin">Matt. xxvii. 46. Mark vii. 34.</note>, us'd through<g ref="char:EOLhyphen"/>out the Region which he honour'd with his Reſi<g ref="char:EOLhyphen"/>dence and Miniſtry. The ſpeaking of <hi>diverſe kinds of Tongues by the Spirit</hi>
+               <note n="(c)" place="margin">1 Cor. xii. 10.</note> was a Miracle reſerv'd to be the Crown and Perfection of all others wrought under former Diſpenſations, and was particularly deſign'd to make good thoſe ſo very remarkable Words of our Saviour to his Diſciples<note n="(d)" place="margin">Joh. xiv. 12.</note>, <hi>He that believeth on me, the Works that I do ſhall he do alſo, AND GREATER WORKS THAN THESE SHALL HE DO</hi>
+               <note n="‖" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. D. Cryſoſt. de Sto. Paulo A<g ref="char:EOLhyphen"/>poſtolo Hom. xxxii. in Ep. ad Rom. pro<g ref="char:EOLhyphen"/>pè ſinem.</note>, <hi>be<g ref="char:EOLhyphen"/>cauſe I go unto my Father.</hi> Nor does this any ways leſſen the Glory of our Saviour's Miracles; becauſe whatever the H. Ghoſt did by the Apo<g ref="char:EOLhyphen"/>ſtles, the great End thereof was to corroborate our Saviour's Miracles, and to bear Teſtimony to the Truth of every Thing he did or ſpake whileſt he abode upon Earth. <hi>When the PARACLET is come, whom I will ſend from the Father, he ſhall te<g ref="char:EOLhyphen"/>ſtifie of me</hi>
+               <note n="(e)" place="margin">Joh. xv. 26.</note>: And in the Words after the Text, <hi>He ſhall glorifie me</hi>
+               <note n="(f)" place="margin">—xvi. 14.</note>. It was indeed that admi<g ref="char:EOLhyphen"/>rable Knowledge of Tongues and Languages which the Apoſtles receiv'd from the H. Ghoſt, that enabled them to propagate as they did the Goſpel of Chriſt, that taught every Mouth to Confeſs him, that got him Proſelytes from all Na<g ref="char:EOLhyphen"/>tions
+<pb n="16" facs="tcp:94069:13"/>under the Sun, and that in very little time made the Glory and Reputation of his Name fly over all parts of the Univerſe.</p>
+            <p>
+               <hi>Secondly,</hi> The Coming of the <hi>PARACLET</hi> made it impoſſible for the World any longer to deny our Saviour, another way: And that was by his very Coming down, abſtracting from the Miracles which he wrought afterwards. Thus. Our Saviour pleaded that he was a true Prophet, ſent from God, and he foretold many things that ſhould come to paſs, whereof this was one: That as ſoon as he was aſcended unto his Father, the H. Ghoſt ſhould come down, and the Effects of it ſhould be ſeen viſibly in the World. He bad his Apoſtles <hi>not to depart from Jeruſalem,</hi> untill they were <hi>endued with Power from on High</hi>
+               <note n="(g)" place="margin">Luk. xxiv. 49. Acts i. 4.</note>. The H. Ghoſt therefore coming down as he had fore<g ref="char:EOLhyphen"/>told, deſcending on the Apoſtles, and exerting his mighty Power in them immediately upon it, what was this but a moſt Signal Teſtimony that our Saviour was a true Prophet, and that conſe<g ref="char:EOLhyphen"/>quently they were guilty of very great <hi>Sin</hi> that did <hi>not believe on him?</hi>
+            </p>
+            <p>But now to diſcourſe particularly of this Glori<g ref="char:EOLhyphen"/>ous Deſcent of the H. Ghoſt, to relate the Man<g ref="char:EOLhyphen"/>ner of it, the Circumſtances that attended it, is neither the Buſineſs of the Text nor of the Day.
+<pb n="17" facs="tcp:94069:13"/>'Tis a Subject proper for the Great Solemnity that is approaching, upon which I ſhall not Anti<g ref="char:EOLhyphen"/>cipate. But I muſt crave your Attention to the Matters now before us.</p>
+            <p n="2">II. The Next Thing that our B. Saviour tells his Diſciples the H. Ghoſt, his <hi>PARACLET,</hi> would <hi>reprove</hi> or <hi>convince the World of</hi> at his Coming, is <hi>Righteouſneſs:</hi> that is, His <hi>Righ<g ref="char:EOLhyphen"/>teouſneſs,</hi> our Saviour's <hi>Righteouſneſs; be<g ref="char:EOLhyphen"/>cauſe</hi> (ſaies he) <hi>I go to my Father, and ye ſee me no more.</hi>
+            </p>
+            <p>The World not only rejected our Saviour, as to his Office; but likewiſe aſpers'd his Innocency, as to his Life and Converſation among Men. <hi>Falſe Witneſſes did riſe up, they laid to my charge things that I knew not,</hi> ſays <hi>David</hi>
+               <note n="(h)" place="margin">Pſ. xxxv. 11. Matt. xxvi. 59.</note>, ſpeaking Prophetically of him. He was <hi>the Lamb of God, without blemiſh, and without ſpot</hi>
+               <note n="(i)" place="margin">1 Pet. i. 19.</note>. <hi>Who did no Sin, neither was Guile found in his Mouth</hi>
+               <note n="(k)" place="margin">—ii. 22. Iſa. liii. 9.</note>. And yet how barbarouſly was he us'd by the Tongues of Men? His very beſt Actions were cenſur'd, and cavil'd at. He <hi>was reckon'd among the Tranſ<g ref="char:EOLhyphen"/>greſſors</hi>
+               <note n="(l)" place="margin">Luke xxii. 37. Iſa. liii. 12.</note>: <hi>He bare the Sins and Iniquities of us all</hi>
+               <note n="(m)" place="margin">Ibid. verſ. 6. <hi>and</hi> 12.</note>: He had <hi>his Grave with the Wicked</hi>
+               <note n="(n)" place="margin">Verſ. 9.</note>: and he was at laſt cut off from the Earth, as tho' he
+<pb n="18" facs="tcp:94069:14"/>had been guilty of Crimes which nothing but his Blood could expiate.</p>
+            <p>Our Lord then tells his Diſciples in the Text, that the H. Ghoſt at his Coming would <hi>Convince the World</hi> of his <hi>Righteouſneſs,</hi> or Innocency, which was then Eclips'd, as it were, by the Ca<g ref="char:EOLhyphen"/>lumnies and the Obloquies of Men; but would be clearly manifeſted to all, and would ſhine out again to a perfect day, at the Coming of the H. Ghoſt. But how ſhould the H. Ghoſt <hi>Convince the World</hi> of our Saviour's Innocency? <hi>Becauſe</hi> (ſays he) <hi>I go to my Father, and ye ſee me no more.</hi> That is<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. D. Cry<g ref="char:EOLhyphen"/>ſoſt. in loc.</note>, by publiſhing at his Deſcent, how that our Saviour was aſcended unto his <hi>Father,</hi> ſo as we <hi>ſee him now no more</hi> on Earth, and urging This as the great Argument of his moſt <hi>Righteous</hi> and Holy Life. And this the H. Ghoſt ſhould do by the Miniſtry of the Apoſtles, and the Mighty Power with which he ſhould go along with them in the whole Courſe of it; giving them full Evidence of the Truth of theſe Things, and enabling them to <hi>convince</hi> others of them; and the World ſhould not be able to ſtand out againſt the Force of their Teſtimony.</p>
+            <p>How this was perform'd by the Apoſtles, at the Deſcent of the H. Ghoſt, we have an ample Account in Scripture. This was ſo remarkably
+<pb n="19" facs="tcp:94069:14"/>fulfill'd, that on the very Day on which the Spi<g ref="char:EOLhyphen"/>rit of God deſcended upon theſe Holy Men, <hi>viz.</hi> the Day of <hi>Pentecoſt,</hi> the Firſt Thing they did, was to Vindicate our Saviour's Innocency againſt the <hi>Jews,</hi> by theſe ſame Arguments of his Reſurrecti<g ref="char:EOLhyphen"/>on from the Dead, and Exaltation at the Right Hand of God. For when great <hi>Multitudes</hi> flock't to the place where they were aſſembled, 'tis ſaid that <hi>Peter ſtanding up with the Eleven,</hi> ſpake in this manner<note n="(o)" place="margin">Acts ii. 22.</note>. <hi>Ye Men of</hi> Iſrael, <hi>hear theſe words;</hi> Jeſus <hi>of</hi> Nazareth, <hi>a Man approved of God among you, by Miracles, and Wonders, and Signs, which God did by him in the midſt of you, as ye your ſelves alſo know: Him being delivered by the determinate Counſel and Foreknowledge of God, ye have taken,</hi>
+               <note place="margin">—23.</note> 
+               <hi>and by wicked hands have Crucified and Slain:</hi>
+               <note place="margin">—24.</note> 
+               <hi>Whom God hath raiſed up, having looſed the pains of Death; be<g ref="char:EOLhyphen"/>cauſe it was not poſſible that he ſhould be holden of it.</hi>
+               <note place="margin">—32.</note> 
+               <hi>This</hi> Jeſus <hi>hath God raiſed up, whereof we are all Witneſſes.</hi> And <hi>being by the Right Hand of God ex<g ref="char:EOLhyphen"/>alted,</hi>
+               <note place="margin">—33.</note> 
+               <hi>and having received of the Father the Promiſe of the H. Ghoſt, he hath ſhed forth this which ye now ſee and hear. Therefore let all the Houſe of</hi> Iſrael <hi>know aſſuredly, that God hath made that ſame</hi> Jeſus <hi>whom ye have Crucified, both Lord and Chriſt.</hi> Now,<note place="margin">—36.</note> what was the Effect of this Diſcourſe? Was any body <hi>convinc'd</hi> of our Saviour's Innocency by it?
+<pb n="20" facs="tcp:94069:15"/>Read what follows<note n="(p)" place="margin">Verſ. 37.</note>, <hi>When they heard this, they were pricked in their hearts, and ſaid unto</hi> Peter, <hi>and to the reſt of the Apoſtles, Men and Brethren, what ſhall we do?</hi> O the Mighty Power of the Spirit of God! which brought the very Murtherers of our Lord, thoſe who but few daies before had ſo bitterly revil'd him, and perſecuted him to the Death, to acknowledge his Innocency and their Guilt, and come trembling and crying at the feet of his Apoſtles, <hi>Men and Brethren, what ſhall we do?</hi>
+            </p>
+            <p>Here indeed it was that the Bleſſed Apoſtles Conquer'd and overcame the World! Where<g ref="char:EOLhyphen"/>ever they went, this was the thing they conſtant<g ref="char:EOLhyphen"/>ly Preach'd, and enforc'd on the Belief of Man<g ref="char:EOLhyphen"/>kind: That it was no ſtrange thing that a Good Man ſhould Suffer; That <hi>Jeſus</hi> was a <hi>Righteous,</hi> and an Innocent Perſon; That the Ignominious Death he had been put to, was no Argument at all of his Guilt, but of the implacable Malice of his Enemies, whoſe horrible Hypocriſy drew from him thoſe ſharp but juſt Reproofs that in Re<g ref="char:EOLhyphen"/>venge made them ſeek his Deſtruction. If any doubted it, they bade him conſider how God had glorified him after Death, crown'd him with Ho<g ref="char:EOLhyphen"/>nour in the Higheſt Heavens, who had been ſo ill intreated, and ſo ſhamefully reproached upon
+<pb n="21" facs="tcp:94069:15"/>Earth: Seated him on his own Throne, far a<g ref="char:EOLhyphen"/>bove all Angels, and <hi>Principalities, and Powers, and Mights, and Dominions, and every Name</hi>
+               <note n="(q)" place="margin">Eph. i. 21.</note>, who had been <hi>deſpiſed and rejected of Men</hi>
+               <note n="(r)" place="margin">Iſa. liii. 3.</note>. For it was moſt certain God had rais'd him from the Dead. They <hi>ſaw</hi> him, <hi>ſpake</hi> with him, <hi>eat</hi> and <hi>drank</hi> with him after his Reſurrection many days<note n="(ſ)" place="margin">Luk. xxiv. 30.42. Joh. xxi. 12, &amp;c.</note>: They touch'd him, and <hi>handl'd him</hi>
+               <note n="(t)" place="margin">Luke xxiv. 29. Matt. xxviii. 9.</note>: They <hi>thruſt their hands into his Side,</hi> and they <hi>put their fingers into his very Wounds</hi>
+               <note n="(u)" place="margin">Joh. xx. 25.27.</note>: So that they were ſure it was a Real Body which they beheld and felt, and not a <hi>Spirit</hi> or a Phantaſm that deluded them; and that it was the very ſelf-ſame Body which had been dead and breathleſs before, that was now quick and alive again; for another Body could not have had the <hi>Prints,</hi> and the Marks, and the Scars upon it which they ſaw. As for his Aſ<g ref="char:EOLhyphen"/>cenſion into Heaven, and his Seſſion at the Right Hand of God, it was as Certain and Undoubted as his Reſurrection from the Dead. For after he had remain'd on Earth <hi>forty daies</hi>
+               <note n="(x)" place="margin">Acts i. 1, &amp;c. Luk. xxiv. 50.</note>, both to aſſure them <hi>by many infallible Proofs</hi> that he was indeed riſen, and to inſtruct them in <hi>the Things per<g ref="char:EOLhyphen"/>taining to the Kingdom of God,</hi> he <hi>aſſembled them</hi> on the Mount of <hi>Olives,</hi> where, after he had <hi>bleſſed them,</hi> whileſt he was yet ſpeaking unto them, and <hi>they beheld him,</hi> he <hi>was taken up, and a Cloud received
+<pb n="22" facs="tcp:94069:16"/>him out of their ſight.</hi> They ſaw him viſibly mount up, and take his Flight towards the Manſions of Eternal and Immortal Bliſs. And tho' he was able in a moment, in the twinkling of an Eye, to have paſſed from the Earth to the Higheſt Hea<g ref="char:EOLhyphen"/>ven, he ſet out at firſt and march'd up but ſlow<g ref="char:EOLhyphen"/>ly, ſo that they <hi>ſtood gazing up</hi> a long while after him <hi>as he went up</hi>
+               <note n="(y)" place="margin">Acts i. 10, 11.</note>, that they might the better obſerve his Aſcending. And leſt it ſhould be thought that he had been only carried up in the Air<note n="†" place="margin">So ſome Anci<g ref="char:EOLhyphen"/>ent Hereticks thought.</note>, and there left in ſome of thoſe Wild and Unknown Regions, two Angels came down in <hi>bright and ſhining Apparel</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. ibid.</note>, who moſt expreſly aſ<g ref="char:EOLhyphen"/>ſur'd them, that our Everlaſting <hi>High-Prieſt</hi> was <hi>entred into the Holieſt of all</hi>
+               <note n="(z)" place="margin">Heb. ix 8, 11, 12, 24.</note>, the Third and Inmoſt Heaven, where is the Throne of God on which he was to ſit, and that they ſhould ſee him one day <hi>come</hi> down from thence <hi>in like manner as they had now ſeen him</hi> taken up<note n="(a)" place="margin">Acts i. 11.</note>, namely, when he ſhould return to Judge the World. Thus did theſe Holy Men, by the mighty Power of the Spi<g ref="char:EOLhyphen"/>rit of God, which ſtrengthen'd them in an extra<g ref="char:EOLhyphen"/>ordinary manner, upbraid the World with its Cruelty and Injuſtice to their Lord, by ſhewing how God had Juſtified him, thô Men had Con<g ref="char:EOLhyphen"/>demn'd him. He was indeed for a while <hi>of no re<g ref="char:EOLhyphen"/>putation,</hi> ſays St. <hi>Paul</hi>
+               <note n="(b)" place="margin">Phil. ii. 7.</note>, <hi>and took upon him the
+<pb n="23" facs="tcp:94069:16"/>form of a Servant, and was made in the likeneſs of Men: And being found in faſhion as a Man,</hi>
+               <note place="margin">—8.</note> 
+               <hi>he hum<g ref="char:EOLhyphen"/>bled himſelf, and became Obedient unto Death, even the Death of the Croſs.</hi>
+               <note place="margin">—9.</note> 
+               <hi>Wherefore God alſo hath high<g ref="char:EOLhyphen"/>ly Exalted him, and given him a Name which is above every Name: That at the Name of</hi> Jeſus <hi>every Knee ſhould bow, of things in Heaven, and things in Earth,</hi>
+               <note place="margin">—10.</note> 
+               <hi>and things under the Earth; And that every Tongue ſhould confeſs, that</hi> Jeſus Chriſt <hi>is the Lord,</hi>
+               <note place="margin">—11.</note> 
+               <hi>to the Glory of God the Father.</hi>
+            </p>
+            <p n="3">III. The Third and Laſt Thing that our B. Saviour tells his Diſciples the H. Ghoſt, his <hi>PARACLET,</hi> would <hi>reprove</hi> or <hi>convince the World of</hi> at his Coming, is <hi>Judgment, becauſe the Prince of this World is judged.</hi>
+            </p>
+            <p>Nothing had expos'd the Son of God more to the Scorn and Deriſion of the World, than that Unexampled Patience and Meekneſs with which he ſuffer'd all the Indignities that were caſt upon him, never making any other Returns than Kind<g ref="char:EOLhyphen"/>neſs to his greateſt Enemies, and Prayers unto God for them. <hi>When he was reviled, he reviled not again: When he ſuffered, he threatned not</hi>
+               <note n="(c)" place="margin">1 Pet. ii. 23.</note>. <hi>He was oppreſſed, and he was afflicted, yet he opened not his Mouth: He was brought as a Lamb to the Slaugh<g ref="char:EOLhyphen"/>ter,
+<pb n="24" facs="tcp:94069:17"/>and as a Sheep before her ſhearers is dumb, ſo he opened not his Mouth</hi>
+               <note n="(d)" place="margin">Iſa. liii. 7. Acts viii. 32.</note>. <hi>He did not ſtrive, nor cry, neither did any man hear his voice in the Streets.</hi>
+               <note n="(e)" place="margin">Mat. xii. 19. Iſa. xlii. 2.</note>. This, the baſe and degenerous World imputed to his Impotence, and made it an Argument of his Guilt, which was rather an Inſtance of his Love, and Goodneſs, and Compaſſion to Men. <hi>Thou that deſtroyeſt the Temple, and buildeſt it in three daies, ſave thy ſelf: If thou be the Son of God, come down from the Croſs</hi>
+               <note n="(f)" place="margin">Matt. xxvii. 40.</note>! were the inſulting words of the <hi>Jews,</hi> mocking him whilſt he lay labouring under the Throws and the Agonies of Death. The Time of his Abode upon Earth was indeed a Time of Sufferings: 'Twas the <hi>Hour</hi> of his Ene<g ref="char:EOLhyphen"/>mies, and <hi>the Power of Darkneſs</hi>
+               <note n="(g)" place="margin">Luk. xxii. 53.</note>. But when once God had exalted him, and taken him up unto himſelf, it was then fit he ſhould aſſert his Power and Godhead by his <hi>Judgments</hi> on the World, and that <hi>being ſate down at the Right Hand of God, his Enemies ſhould be now made his Foot<g ref="char:EOLhyphen"/>ſtool</hi>
+               <note n="(h)" place="margin">Pſal. cx. 2 Matt. xxii. 44.</note>. But <hi>the Heavens being to contain him un<g ref="char:EOLhyphen"/>til the Times of the Reſtitution of all things</hi>
+               <note n="(i)" place="margin">Acts iii. 21.</note>, he could not come down preſently again on the Earth, to execute <hi>Judgment</hi> in Perſon upon the World that had rejected him. Therefore he ſends the H. Ghoſt, who, as his <hi>PARACLET,</hi> his Great Repreſentative on Earth<note n="†" place="margin">
+                  <hi>PARACLE<g ref="char:EOLhyphen"/>TUS Vicarius Chriſti.</hi> Tertul. adverſ. Valent. Cap. xvi.</note>, avenges him on
+<pb n="25" facs="tcp:94069:18"/>the Authors and Inſtruments of his Sufferings. Not one of them eſcap'd the Vengeance they de<g ref="char:EOLhyphen"/>ſerv'd. <hi>Judas</hi> who betray'd him, had ſome time before, with unconceivable Horrour and Anguiſh of Mind, ended his wretched days<note n="(k)" place="margin">Mat. xxvii. 3. Acts i. 18.</note>. <hi>Herod</hi> loſt his Tetrarchy, and, with his Inceſtuous <hi>He<g ref="char:EOLhyphen"/>rodias,</hi> died in Baniſhment<note n="‖" place="margin">Joſeph. An<g ref="char:EOLhyphen"/>tiq. Jud. lib. xviii. cap. 9.</note>. <hi>Pilate</hi> was put out of his Government, grew weary of his Life, and became his own Murderer<note n="*" place="margin">
+                  <hi>Euſeb. Hiſt. Eccl. lib. ii. cap. 7. Nic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ph. Cal<g ref="char:EOLhyphen"/>liſt. Eccl. Hiſt. lib ii. cap. 10.</hi> Vid &amp; quae <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bi<g ref="char:EOLhyphen"/>dem reſert de <hi>Annâ</hi> &amp; <hi>Cal<g ref="char:EOLhyphen"/>phâ,</hi> aliiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> qui &amp; ipſi (ut lo<g ref="char:EOLhyphen"/>quitur) dignas variaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> dede<g ref="char:EOLhyphen"/>runt paenas, ejus quam Chriſto intulerunt, ini<g ref="char:EOLhyphen"/>quae &amp; injuſtae Necis.</note>. But not to inſiſt on <hi>Judgments</hi> upon Particular Perſons, to whom God's afflicting Providences are ſo variouſly and ſo unaccountably adminiſtred in this World, what became rather of the <hi>Jews</hi> and <hi>Romans,</hi> thoſe two great Nations that had combin'd to put him to Death? They were deſtroyed by <hi>the Sword of his Mouth</hi>
+               <note n="(l)" place="margin">Rev. xix. 15.</note>, and by the mighty Power of his <hi>Spirit</hi>
+               <note n="(m)" place="margin">2 Theſ. ii. 8.</note>. The <hi>Jews</hi> were his moſt deadly Enemies, but they ſoon felt the terrible Effects of that direfull Imprecation which they made upon themſelves and their Poſterity, when they cried out at his Crucifixion, <hi>His Blood be on us, and on our Children</hi>
+               <note n="(n)" place="margin">Mat. xxvii. 25.</note>! No ſooner was the Lord aſcended unto his Glory, and the <hi>PARA<g ref="char:EOLhyphen"/>CLET</hi> came down, but the Chriſtian Church prevail'd o'er the Jewiſh Synagogue. Their Pom<g ref="char:EOLhyphen"/>pous Temple was deſtroy'd, the daily <hi>Oblation ceas'd</hi>
+               <note n="(o)" place="margin">Dan. ix. 27.</note>, <hi>The Abomination of Deſolation ſtood in
+<pb n="26" facs="tcp:94069:19"/>their Holy Place</hi>
+               <note n="(p)" place="margin">Matt. xxiv. 15.</note>, and the Divine Juſtice left not purſuing them till they were no longer a Na<g ref="char:EOLhyphen"/>tion. As for the <hi>Romans,</hi> never was the Hand of God more remarkably ſeen in any thing than in the Overthrow of their Empire<note n="†" place="margin">Vid. <hi>D. Au<g ref="char:EOLhyphen"/>guſt. de Civit. Dei.</hi> &amp; <hi>Oſor. adv. Paganos,</hi> qui Argumen<g ref="char:EOLhyphen"/>tum hoc fuſe, &amp; operatò proſe<g ref="char:EOLhyphen"/>quuntur.</note>, which, at the Birth of our Saviour, was at the Height and Top of all its Glory. All the Mighty Nations of the Earth were Tributary to it, and there was an U<g ref="char:EOLhyphen"/>niverſal Peace in all its Provinces. But after his Aſcenſion, and the Deſcent of the <hi>PARACLET,</hi> it began viſibly to decline. The <hi>Rhine,</hi> the <hi>Da<g ref="char:EOLhyphen"/>nub,</hi> and the <hi>Euphrates,</hi> which were before the Bounds of its Greatneſs, and over which it was certain Death for any Barbarous Nation to paſs, ſaw their Banks cover'd with Swarms of a Savage and Unknown People, that ſpred over it like Lo<g ref="char:EOLhyphen"/>cuſts. <hi>Rome</hi> it ſelf, which was call'd <hi>the Eternal City</hi>
+               <note n="‖" place="margin">
+                  <hi>Romulus</hi> Ae<g ref="char:EOLhyphen"/>ternae nondum fundaverat Ur<g ref="char:EOLhyphen"/>bis Marnia. <hi>Tib. lib. ii. Eleg. 5.</hi> Inter haec <hi>Or<g ref="char:EOLhyphen"/>phitus</hi> praefecti poteſtate rege<g ref="char:EOLhyphen"/>bat Urbem Ae<g ref="char:EOLhyphen"/>ternam. <hi>Amm. Marcellin. lib. xiv.</hi>
+               </note>, that <hi>Name of Blaſphemy</hi>
+               <note n="*" place="margin">
+                  <hi>Roma,</hi> Aeter<g ref="char:EOLhyphen"/>na cum dicitur, quae Temporalis eſt, nomen eſt Blaſphemiae. <hi>Proſper.</hi>
+               </note> mention'd by St. <hi>John</hi> in his <hi>Revelation</hi>
+               <note n="(q)" place="margin">xiii. 1.</note>, which ſaid <hi>I ſit a Queen, I ſhall ſee no ſorrow,</hi> I ſhall never be mo<g ref="char:EOLhyphen"/>ved<note n="(r)" place="margin">xviii. 7.</note>; That proud City, <hi>the Mother</hi> of Spiritual Whoredoms, the Seat of all the Idolatries and <hi>Abominations of the Earth, Drunk with the Blood of the Saints, and of the Martyrs of Jeſus</hi>
+               <note n="(ſ)" place="margin">xvii. 5, 6.</note>, was ſack't by the <hi>Goths</hi> and <hi>Vandals.</hi>
+            </p>
+            <p>But I haſten to that <hi>Judgment</hi> which our Lord tells his Diſciples the H. Ghoſt, his <hi>PARACLET,</hi>
+               <pb n="27" facs="tcp:94069:19"/>would more particularly execute on the Devil, the Chief Author of his Death, and of his Suffer<g ref="char:EOLhyphen"/>ings. For it was he that had moſt bitterly Perſe<g ref="char:EOLhyphen"/>cuted him in the whole Courſe of his Life, tempt<g ref="char:EOLhyphen"/>ing <hi>Judas</hi> to betray him, animating <hi>Herod</hi> and <hi>Pilate,</hi> the <hi>Jews</hi> and <hi>Romans,</hi> to his Deſtruction.</p>
+            <p>Our Lord calls him here <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>The Prince of this World.</hi> So he had call'd him twice before. <hi>Now is the Judgment of this World: Now ſhall the Prince of this World be caſt out</hi>
+               <note n="(t)" place="margin">Joh. xii. 31.</note>. And again, <hi>The Prince of this World cometh, and hath nothing in me</hi>
+               <note n="(u)" place="margin">—xiv. 30.</note> St. <hi>Paul</hi> calls him yet ſomewhat more, even <hi>The GOD of this World</hi>
+               <note n="(x)" place="margin">2 Cor. iv. 4.</note>. Theſe were ſome of the Uſual Names and Appel<g ref="char:EOLhyphen"/>lations by which the Devil was Known and Un<g ref="char:EOLhyphen"/>derſtood among the <hi>Jews</hi>
+               <note n="†" place="margin">
+                  <hi>Vid.</hi> Doctiff. Lightf. Hor. Hebr. &amp; Thalmud. in Joan. Cap. xii. Verſ. 31.</note>, who thereby intend<g ref="char:EOLhyphen"/>ed to expreſs that Empire which he had at that time over the whole World, that little corner of it where they dwelt, <hi>Paleſtine,</hi> only excepted. There indeed the true God was Confeſs'd; for <hi>in Juda God was known, his Name was great in Iſrael</hi>
+               <note n="(y)" place="margin">Pſ. lxxvi. 1.</note>: But every where elſe, a dark Night of Idolatry and Paganiſm cover'd the face of the Earth, and Wretched Men <hi>forſaking the God that made them</hi>
+               <note n="(z)" place="margin">Deut. xxxii. 15, 16, 17.</note>, paid Religious Service to the Devil<note n="*" place="margin">Toto paſſim Terrarum Orbe rerum potieba<g ref="char:EOLhyphen"/>tur Satanat, co<g ref="char:EOLhyphen"/>lebatur<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ab c<g ref="char:EOLhyphen"/>mnibus prope<g ref="char:EOLhyphen"/>modùm Genti<g ref="char:EOLhyphen"/>bus &amp; Nationi<g ref="char:EOLhyphen"/>bus. Ubiq, ex<g ref="char:EOLhyphen"/>tabant Delubra in illius Hono<g ref="char:EOLhyphen"/>rem crecta, ubi<g ref="char:EOLhyphen"/>que Arae, ubi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Sacriſitia, <hi>&amp;c. Author. Com<g ref="char:EOLhyphen"/>ment. in Luc. adſcript. Tito Boſtrenſ. Ep. in Auctuar. Bi<g ref="char:EOLhyphen"/>blioth. Patr. Tom. xi.</hi>
+               </note>. He had Sumptuous and Magnificent Temples erected to his Honour: Glorious and Goodly Shrines, which
+<pb n="28" facs="tcp:94069:20"/>were every day throng'd with vaſt Multitudes of Worſhippers of all Countries under Heaven. He had all the Rites and Ceremonies of a Public and Solemn Miniſtration appointed him: Fla<g ref="char:EOLhyphen"/>mins and Prieſts ordain'd to attend and to ſerve at his Altars; which ſent up a Cloud of Incenſe towards Heaven, and reek'd with the Blood of the Victims that were offer'd him: But that <hi>Mur<g ref="char:EOLhyphen"/>therer</hi>
+               <note n="(a)" place="margin">Joh. viii. 44.</note> chiefly delighted in Human Sacrifices<note n="†" place="margin">Euſeb. Prae<g ref="char:EOLhyphen"/>parat. Evang. lib. ix. cap. 15. &amp; alibi paſſim. Lactant. Di<g ref="char:EOLhyphen"/>vin. Inſtit. lib. i. cap. 21. Minuc. Foelix. in Octav. Porphyr. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. lib. ii. Sect. 53, 54, &amp;c.</note>. Parents made him a Burnt Offering of their Chil<g ref="char:EOLhyphen"/>dren, and drown'd the Cries of the Dying In<g ref="char:EOLhyphen"/>nocents with the Noiſe of Drums and Cymbals. He had Veſtals and Holy Virgins conſecrated to him. He had Augurs, and Sybils, and Prophe<g ref="char:EOLhyphen"/>teſſes that ſpake in his Name, and deliver'd his Oracles to Men, when they conſuited him about Future Events.</p>
+            <p>Our Lord then tells his Diſciples in the Text, that the <hi>PARACLET</hi> at his Coming would o<g ref="char:EOLhyphen"/>verthrow this Empire which the Devil had ſet up in the World; and this Prediction was moſt ex<g ref="char:EOLhyphen"/>actly accompliſhed at the Deſcent of the H. Ghoſt. For that Bleſſed Spirit coming down on the A<g ref="char:EOLhyphen"/>poſtles, arm'd them with ſuch an irreſiſtible Pow<g ref="char:EOLhyphen"/>er, that they ſoon led Captive <hi>the Prince of this World.</hi> Wherever they went, by the Doctrine which they preach'd, and the mighty Works
+<pb n="29" facs="tcp:94069:20"/>which they did for the Proof and Confirmation of it, they deſtroy'd his Kingdom, and ſet up the Kingdom of Chriſt: They beat down his Idola<g ref="char:EOLhyphen"/>trous Temples, and built Churches on their Ru<g ref="char:EOLhyphen"/>ines<note n="*" place="margin">Euſeb. Prae<g ref="char:EOLhyphen"/>par. Evang. lib. iv. cap. 4.</note>: They overturn'd his Altars, and erected the Triumphant Croſs: They ſtruck dumb his Oracles<note n="†" place="margin">Id. ibid. lib. v. cap. 16, &amp;c. Id. Demonſt. Evang. lib. v. in Proem. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>, and publiſh'd aloud in all places <hi>the glad Tidings</hi> of the Goſpel: and by that means <hi>convinc'd the Unbelieving World</hi> that That impure Spirit, who had ſo long reign'd in the Earth, whoſe Noſtrils had been fed with the Steams and Fumes of ſo ma<g ref="char:EOLhyphen"/>ny Sacrifices, was now <hi>Judg'd</hi> and Condemn'd, and That <hi>Jeſus</hi> who had been Crucified, and who ſate at the Right Hand of God, was the only God and Lord.</p>
+            <p>When the H. Ghoſt came down, and aſſiſted the Apoſtles in Preaching up <hi>Jeſus,</hi> and the <hi>Power of his Reſurrection</hi>
+               <note n="(b)" place="margin">Phil. iii. 10.</note>, then <hi>fell Satan as Lightning from Heaven</hi>
+               <note n="(c)" place="margin">Luk. x. 18.</note>; who had ſaid, <hi>I will exalt my Throne above the Stars of God, I will be like the moſt High</hi>
+               <note n="(d)" place="margin">Iſa. xiv. 12, 14.</note>. No ſooner did the Light of the Goſpel, by the Miniſtry of theſe Holy Men, diſplay its Beams o'er the benighted World, but the Powers of Darkneſs vaniſh'd, and fled at its Glorious Appearance. The Devil could not bear that Light, which diſcover'd the Impoſture he had kept the World under for ſo many Ages.</p>
+            <pb n="30" facs="tcp:94069:21"/>
+            <p>How Abſolute was he in the World before, when all the Mighty Kingdoms of the Earth paid him Homage, and were daily proſtrate at the foot of his Altars! Well might he be call'd <hi>The Prince of this World,</hi> who Reign'd on this ſide Heaven with ſo uncontroul'd an Empire, and to whom were offer'd the Vows, the Supplications, and Prayers of the Idolatrous Nations. Some worſhip'd him under one Name, ſome under a<g ref="char:EOLhyphen"/>nother: but under thoſe Various Names he had thoſe Divine Honours paid him that were due to the only Supreme God. For what were all thoſe Falſe Divinities of the Gentile World but Impure Daemons<note n="‖" place="margin">Pſ. xcvi. 5. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Se<g ref="char:EOLhyphen"/>ptuag. <hi>Omnes Dii Gen<g ref="char:EOLhyphen"/>tium Daemonia.</hi> Vulgat.</note>, who neſtl'd in thoſe Unhallowed Pla<g ref="char:EOLhyphen"/>ces where thoſe Divinities were Worſhip'd<note n="*" place="margin">Iſti impuri Spiritus, ſub Statuis, &amp; Ima<g ref="char:EOLhyphen"/>ginibus conſe<g ref="char:EOLhyphen"/>cratis, delite<g ref="char:EOLhyphen"/>ſcunt; &amp; affla<g ref="char:EOLhyphen"/>tu ſuo authori<g ref="char:EOLhyphen"/>tatem quaſi praeſentis Nu<g ref="char:EOLhyphen"/>minis conſe<g ref="char:EOLhyphen"/>quuntur; dùm inſpirantur Va<g ref="char:EOLhyphen"/>tibus, Fanis im<g ref="char:EOLhyphen"/>morantur, Ora<g ref="char:EOLhyphen"/>cula efficiunt— <hi>Minuc. Fael. in Octav. In eadem ferè verba S. Cypri<g ref="char:EOLhyphen"/>an. lib. de Ido<g ref="char:EOLhyphen"/>lorum Vanit.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c. Scri<g ref="char:EOLhyphen"/>ptor Reſponſ. ad Orthodox. apud Juſt. Martyr.</hi>
+               </note>, and under thoſe Various Names<note n="†" place="margin">Iidem ſunt Daemones quos vulgus Deos eſſe opinatur; qui dejiciendi ho<g ref="char:EOLhyphen"/>minis cauſâ, varios ſibi cul<g ref="char:EOLhyphen"/>tus per diverſa Regionum con<g ref="char:EOLhyphen"/>diderunt, men<g ref="char:EOLhyphen"/>titis tamen aſ<g ref="char:EOLhyphen"/>ſumptiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Nomi<g ref="char:EOLhyphen"/>nibus, ut falle<g ref="char:EOLhyphen"/>rent. <hi>Lactant. Divin. Inſtit. lib. iv. cap. 27.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Athe<g ref="char:EOLhyphen"/>nag. legat. pro Chriſtianis.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Scriptor Reſponſ. ad Orthod. utſupr.</hi>
+               </note> drew unto them<g ref="char:EOLhyphen"/>ſelves the Adorations of Mankind? This is evi<g ref="char:EOLhyphen"/>dent from Scripture, where the Worſhip of Hea<g ref="char:EOLhyphen"/>then Gods and Idols (that is, of thoſe Spiritual Inviſible Intelligences, which the Idolatrous World thought to reſide in the Viſible Objects of its Wor<g ref="char:EOLhyphen"/>ſhip: in ſome Naturally, as in the Heavenly and Elementary Bodies; in others, by the Virtue of Magical Conſecrations and Teleſms<note n="‖" place="margin">Rapere ad ſe Daemonia, &amp; omnem Spiritum immundum, per Conſecrationis obligamentum. <hi>Tertul. lib. de I<g ref="char:EOLhyphen"/>dolol.</hi>
+               </note>, as in Ima<g ref="char:EOLhyphen"/>ges, and the like Artificial Repreſentations) is ex<g ref="char:EOLhyphen"/>preſly term'd <hi>a Worſhip of Devils</hi>
+               <note n="(e)" place="margin">Revel. ix. 20. <hi>See alſo</hi> Lev. xvii. 7. Deut. xxxii. 17. ii Ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on. xi. 15. &amp;c.</note>. Thus, the Apoſtat <hi>Iſraelites,</hi> who made their Children paſs
+<pb n="31" facs="tcp:94069:21"/>through the fire to <hi>Molech,</hi> the Abomination of the <hi>Ammonites,</hi> and the ſame with <hi>Saturn,</hi> are ſaid to have <hi>Sacrificed their Sons and Daughters unto De<g ref="char:EOLhyphen"/>vils</hi>
+               <note n="(f)" place="margin">Pſal. cvi. 37.</note>. <hi>The Things which the Gentiles ſacrifice,</hi> ſays the Apoſtle plainly, <hi>they ſacrifice to Devils, and not to God</hi>
+               <note n="(g)" place="margin">1. Cor. x. 20.</note>. And he calls the Table where they feaſted after thoſe Sacrifices, in honour of their Gods, <hi>the Table of Devils</hi>
+               <note n="(h)" place="margin">Ibid. Verſ. 21.</note>. But what is now become of all thoſe Falſe Divinities which ſwarm'd in the World when Our Saviour came in it? They are gone! They are <hi>periſh'd from the Earth!</hi> The Coming of the H. Ghoſt, and the Preaching of the Goſpel, has <hi>convinc'd the World</hi> that they were indeed but Devils; <q rend="margQuotes">and the Nations who once worſhip'd them, (We a<g ref="char:EOLhyphen"/>mong the reſt) worſhip now the Great God, the Creator of Heaven and Earth; and bow the Knees before the Lord <hi>Jeſus,</hi> the Saviour and the Redeemer of the World<note n="*" place="margin">Mr. <hi>Mede</hi> Diſc. on Jerem. x. 11. pag. 193.</note>.</q>
+            </p>
+            <p>How ſucceſsfully did the Holy Apoſtles<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. D. Cry<g ref="char:EOLhyphen"/>ſoſt. de Sto. Paulo Apoſto<g ref="char:EOLhyphen"/>lo. Hom. xxxii. in Epiſt. ad Rom.</note>, and the Firſt Preachers of Chriſtianity, aſſiſted by the Spirit of God, go up and down the World ere<g ref="char:EOLhyphen"/>cting Churches on the Ruins of Idolatry! How
+<pb n="32" facs="tcp:94069:22"/>did they every-where, by the Mighty Power that went along with them, ſhake the Foundations of the Devil's Kingdom! How did they expoſe to view the Impious Cheats, the Obſcene Myſteries, the Ridiculous Pomps and Pageantries of his Reli<g ref="char:EOLhyphen"/>gion! How did they confound the Wiſdom of the Philoſophers, and triumph'd over all the Mi<g ref="char:EOLhyphen"/>niſters of Paganiſm! In leſs than Forty Years time, there was no Part of the then known and Habitable Earth, where the Goſpel was not Preach'd; and in few Years more the whole World in a manner became Chriſtian. Where<g ref="char:EOLhyphen"/>ever Chriſtianity appear'd, the Devil was forc'd to quit his Idolatrous Temples: He was aw'd by the Preſence of the meaneſt Chriſtian coming into them<note n="‖" place="margin">Cùm Diis ſuis immolant, ſi aſ<g ref="char:EOLhyphen"/>ſiſtat aliquis Si<g ref="char:EOLhyphen"/>gnatamfrontem gerens, ſacra nullo modo li<g ref="char:EOLhyphen"/>tant.— Cùm enim qui<g ref="char:EOLhyphen"/>dam noſtrorum ſacrificantibus Dominis aſſiſte<g ref="char:EOLhyphen"/>rent, impoſito frontibus Signo, Deos eorum fu<g ref="char:EOLhyphen"/>gaverunt. <hi>La<g ref="char:EOLhyphen"/>ctant. Divin. Inſtit. lib. iv. cap. 27.</hi>
+               </note>: His Service and Sacrifices grew into Contempt: His Prieſts withdrew into Corners and Villages<note n="*" place="margin">Inde <hi>Religio Pagana.</hi> Vid. <hi>Cl. Sarra<g ref="char:EOLhyphen"/>vij Epiſt. Po<g ref="char:EOLhyphen"/>ſthum. pag. 90.</hi> Superſtitio ulti<g ref="char:EOLhyphen"/>ma reſedit in Pagis, ubi tenaci<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re cultu Ruſtici ſua Numina adorabant. Certè <hi>Religio Pagana</hi> indè appellata, quod in Pagis adhuc perſeveraret, cùm ab Urbibu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> jam eſſet exterminata.</note>: His forſaken Oratories were raz'd, or fell of themſelves to the Ground; and if ſome, for the Beauty or Conveniency of their Structure, were thought worthy to be preſerv'd, they be<g ref="char:EOLhyphen"/>came the Manſions of the H. Ghoſt, and the Name of <hi>Jeſus</hi> was Invocated in them. <hi>When a Strong Man armed keepeth his Palace, his Goods are in Peace,</hi> ſays our B. Saviour, foretelling this De<g ref="char:EOLhyphen"/>ſtruction of the Devils Temples; <hi>But when a Stronger than he ſhall come upon him, and overcome
+<pb n="33" facs="tcp:94069:23"/>him, he taketh from him all his Armour wherein he truſted, and divideth his Spoils</hi>
+               <note n="(i)" place="margin">Luk. xi. 21, 22.</note>.</p>
+            <p>The Ceaſing of Oracles, which at the time of our Saviour's appearance began to be very rare, but were not perfectly Silenc'd till the Deſcent of the <hi>PARACLET,</hi> and in proportion to the Pro<g ref="char:EOLhyphen"/>greſs which Chriſtianity made in the World, is a Famous Inſtance of what the H. Ghoſt did then in it: <hi>Viz.</hi> ſcatter'd thoſe Evil Spirits that abus'd the Credulity and Simplicity of Mankind, chac'd away the <hi>Father of Lies</hi>
+               <note n="(k)" place="margin">Joh. viii. 44.</note>, <hi>that he ſhould deceive the Nations no more</hi>
+               <note n="(l)" place="margin">Rev. xx. 3.</note>. This I obſerve again, becauſe it was then much taken notice of, not on<g ref="char:EOLhyphen"/>ly by Chriſtians<note n="†" place="margin">Vid. ſuprà.</note>, but by the very Heathens themſelves<note n="‖" place="margin">Cicer. de Di<g ref="char:EOLhyphen"/>vinat. Lib. ii. Porphyr. apud Euſeb. Praep. Ev. Lib. V. paſsim.</note>; who were amaz'd at that unuſual Silence, and wonder'd the Gods did not anſwer their Worſhippers as formerly. <hi>Plutarch,</hi> we know, wrote a Book about it<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Inter Opuſc. Moral.</note>.</p>
+            <p>Now, how <hi>the World</hi> has been <hi>convinc'd</hi> by this remarkable <hi>Judgment</hi> which our Lord after his Aſcenſion executed on the Devil, <hi>the Prince of this World,</hi> by ſending the <hi>PARACLET,</hi> I think I need not loſe time to ſhew you: It being That which has moſt evidently demonſtrated that That <hi>Jeſus</hi> muſt needs be a Great and a Mighty God who has thus overcome the Devil by the Force of
+<pb n="34" facs="tcp:94069:24"/>his Spirit, and has wreſted the Worldly Power and Empire out of his hands. 'Tis that which has <hi>opened the Eyes</hi> of Men, that were before blinded with Ignorance and Prejudice, and <hi>turned them from Darkneſs to Light, and from the Power of Satan unto God</hi>
+               <note n="(m)" place="margin">Acts xxvi. 18.</note>. 'Tis That which has ſet up Chriſt's Throne in the World, and made thoſe that were before the Devil's moſt Zealous Votaries, become Converts, <hi>renounce</hi> him (as we do ſtill) at the Sa<g ref="char:EOLhyphen"/>cred Fonts, and Profeſs themſelves the <hi>faithfull Soldiers and Servants</hi> of our Lord<note n="†" place="margin">The Ancient Form of Bap<g ref="char:EOLhyphen"/>tiſm.</note>. Whereby you ſee how exactly our Saviour's Promiſe to his Diſ<g ref="char:EOLhyphen"/>ciples has been fulfilled. <hi>Nevertheleſs, I tell you the Truth; It is expedient for you that I go away: For if I go not away, the PARACLET will not come unto you; but if I depart, I will ſend him unto you. And when he is come, he will reprove the World of Sin, and of Righteouſneſs, and of Judgment: Of Sin, becauſe they believe not on me; Of Righteouſneſs, be<g ref="char:EOLhyphen"/>cauſe I go to my Father, and yet ſee me no more; Of Judgment, becauſe the Prince of this World is judged.</hi>
+            </p>
+            <p>The Conſideration of theſe Things, I fear, has carried me too far. For who can ſufficiently repeat the Mighty Changes which the H. Ghoſt wrought in the World at his Coming? the Glo<g ref="char:EOLhyphen"/>rious Triumphs of our Lord over all his Enemies on Earth, after his Exaltation at the Right Hand of his Father? But I muſt forbear. Therefore to Conclude,</p>
+            <pb n="35" facs="tcp:94069:24"/>
+            <p>You have heard that the End of the Coming of the <hi>PARACLET</hi> was to do theſe Three Things. I. To Vindicate the Truth of our Saviour's Miſ<g ref="char:EOLhyphen"/>ſion, as to his Office; and to ſhew that he was the very Chriſt, ſent from God, and therefore that 'tis a very great <hi>Sin, not to believe on him.</hi> II. To Vindicate his <hi>Righteouſneſs</hi> or Innocency, as to his Life and Converſation among Men, from the unjuſt Calumnies and Reproaches of the World: and That by ſhewing how God had raiſed him from the Dead, taken him up from the Earth, and ſeated him next to his Divine Majeſty in Heavenly Places, which 'tis not conceivable God would have done, had he deſerv'd the ill Uſage he receiv'd among Men. III. To avenge him on all his Enemies, bring them like ſo many condemn'd Captives at the Foot of his Throne, <hi>and ſlay them before his face, who would not have this Great King to Reign over them</hi>
+               <note n="(n)" place="margin">Luk. xix. 27</note>; eſpecially to avenge him on the Devil, <hi>The Prince of this World,</hi> by over<g ref="char:EOLhyphen"/>throwing his Kingdom, caſting him out of his Idolatrous Temples, and cauſing the Name of <hi>Je<g ref="char:EOLhyphen"/>ſus</hi> to be Magnified in the World. You have heard how eminently All theſe Things have come to paſs. <hi>We have heard with our ears, O God! Our Fathers have told us, what Work thou didſt in their days, in the Time of old</hi>
+               <note n="(o)" place="margin">Pſ. xliv. 1.</note>!</p>
+            <p>Now, the beſt Uſe that we can make of this
+<pb n="36" facs="tcp:94069:25"/>Diſcourſe, is, to be confirm'd by it in the <hi>Belief</hi> of Chriſtianity, that Bleſſed Religion by which alone we can hope to be Eternally Saved: That is to ſay, in the <hi>Belief</hi> of <hi>Jeſus,</hi> his Life, his Death, his Doctrine, his Miracles, his Reſurrection, his Aſcenſion into Heaven, the Power he has now o<g ref="char:EOLhyphen"/>ver the Quick and the Dead, and the Final <hi>Judg<g ref="char:EOLhyphen"/>ment</hi> he will accordingly paſs and execute on All at the Laſt Day, when he ſhall come to <hi>reward every Man according to his Works</hi>
+               <note n="(p)" place="margin">Matt. xvi. 27.</note>. For theſe are the Things that I call Chriſtianity, all others being but Superſtructures on this Great Foundati<g ref="char:EOLhyphen"/>on. The World can have now no Plea for its Infidelity, if it does not <hi>believe</hi> in this <hi>Jeſus,</hi> and in this Religion, after the Truth of it has been atteſted by ſo many Inſtances of a Divine Power going along with it, and ſetting it up againſt all Oppoſitions of Devils, and of Men. And this I mention, becauſe I know how many there are who do really queſtion the Truth of our moſt Holy Faith in this Sceptical and Degenerate Age. We abound with certain Vain and Frothy Men; who are not afraid to Scoff openly at Chriſtiani<g ref="char:EOLhyphen"/>ty; and Theſe would paſs in the World for the Great Maſters of Reaſon, Men of true Latitude of Thought, who will not be enſlav'd by Opini<g ref="char:EOLhyphen"/>ons grounded only on the Report of Prieſts, that tell them I know not what Stories of one <hi>Jeſus,</hi>
+               <pb n="37" facs="tcp:94069:25"/>and the Mighty Works done by him, becauſe 'tis their Trade to Preach up theſe Things, and their Intereſt to have them <hi>Believ'd.</hi> 'Tis ſtrange in<g ref="char:EOLhyphen"/>deed, that this Spirit of Infidelity ſhould ſtill poſ<g ref="char:EOLhyphen"/>ſeſs the World, after all that God hath done to <hi>Convince it,</hi> and to aſcertain the Truth of Our Holy Religion! God no ſooner made Man, but he Reveal'd himſelf to him. He appear'd fre<g ref="char:EOLhyphen"/>quently to the Patriarchs in the Firſt Ages of the World. Under the Law, he gave a very clear Knowledge of himſelf to Mankind, inſpiring Pro<g ref="char:EOLhyphen"/>phets, and ſending them in his Name. But <hi>in theſe laſt Days,</hi> he <hi>has ſpoken unto us by his own Son, who being the Brightneſs of his Glory, and the expreſs Image of his Perſon</hi>
+               <note n="(q)" place="margin">Heb. i. 2, 3.</note>, came down on the Earth, and made himſelf like unto one of us, that he might more familiarly converſe among Men. He fulfill'd all the Prophecies that had been given ma<g ref="char:EOLhyphen"/>ny Ages before, as Marks to know him by when he came: He ſpake ſo <hi>as no Man ever ſpake</hi>
+               <note n="(r)" place="margin">Joh. vii. 46.</note>: And he ſeal'd the Truth of his Doctrine by ſuch Miracles, as none could do but He that had all the Powers of Nature ſubject to his Command. And when he had finiſh'd what he came to do on the Earth, when by a Free and Voluntary Oblati<g ref="char:EOLhyphen"/>on of himſelf upon the Croſs he had made Atone<g ref="char:EOLhyphen"/>ment for the Sins of the whole World, he roſe gloriouſly from the Dead, and in the Sight of
+<pb n="38" facs="tcp:94069:26"/>many Withneſſes was taken up into Heaven. Preſently after his Aſcenſion he ſent the <hi>PARA<g ref="char:EOLhyphen"/>CLET,</hi> to confirm all that he had ſaid or done before. That Bleſſed Spirit came down, and wrought New Signs and Wonders by the hands of his Apoſtles. They ſpake with Tongues, and in the Name of <hi>Jeſus</hi> they caſt out Devils. They were endued with ſuch Wiſdom and Vertue from above, that they drew after them the Admiration of the World, the Heathens crying out <hi>That the Gods were come down on the Earth in the likeneſs of Men</hi>
+               <note n="(ſ)" place="margin">Acts xiv. 11.</note>. The Effects of this Miraculous Power of the H. Ghoſt accompanying them, were in ve<g ref="char:EOLhyphen"/>ry little time ſeen throughout all the World. The Devil's Kingdom was overthrown, his Oracles were ſilenc'd, the Temples of the Idols were de<g ref="char:EOLhyphen"/>moliſhed, Paganiſm was beat down, and Chri<g ref="char:EOLhyphen"/>ſtianity prevail'd wherever it appear'd. Theſe are plain Matters of Fact, delivered down to us by Credible Hiſtory, and by the Conſtant and Univerſal Tradition of all Ages. Now, if Men will not be <hi>Convinc'd</hi> by theſe Things, what can God do more to <hi>Convince</hi> them? They that can doubt after this, <hi>neither would they be perſwaded,</hi> I do not ſay <hi>though one roſe from the Dead</hi>
+               <note n="(t)" place="margin">Luk. xvi. 31.</note>, for That our Lord hath done, and a great deal more, for their <hi>Conviction,</hi> but, thô a Voice ſhould ſpeak unto them from Heaven.</p>
+            <pb n="39" facs="tcp:94069:26"/>
+            <p>And here I cannot conceal my Thoughts, that Infidelity, or a Denial of the Truths of Chriſti<g ref="char:EOLhyphen"/>anity now, that is, ſince the Deſcent of the H. Ghoſt, I very much ſuſpect to be that tremendous Sin and Blaſphemy againſt the H. Ghoſt, which our Lord pronounces to be Unpardonable in this World, and in that which is to come. I am confident, that if That Sin can be com<g ref="char:EOLhyphen"/>mitted now, it muſt be This; or, I know not what it is. <hi>I ſay unto you, all manner of Sin and Blaſphemy ſhall be forgiven unto Men,</hi> ſays our B. Saviour; <hi>But the Blaſphemy againſt the H. Ghoſt ſhall not be forgiven unto Men. And whoſoever ſpeak<g ref="char:EOLhyphen"/>eth a word againſt the Son of Man, it ſhall be forgi<g ref="char:EOLhyphen"/>ven him; but whoſoever ſpeaketh againſt the H. Ghoſt, it ſhall not be forgiven him, neither in this World, neither in the World to come</hi>
+               <note n="(u)" place="margin">Mat. xii. 31, 32.</note>. Our Lord here ſtates a Difference betwixt Sinning againſt the Son of Man (that is, againſt himſelf) and Sinning againſt the H. Ghoſt. They that were Guilty of Sin againſt the Son of Man, were the <hi>Jews,</hi> who liv'd in our Saviour's time, ſaw his Miracles, and yet did not <hi>believe</hi> on him. And thô this no doubt was a very great Sin, nevertheleſs upon Suppoſition of the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Acknowledg<g ref="char:EOLhyphen"/>ment of him, which <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ſonably be expec<g ref="char:EOLhyphen"/>ted from thoſe fur<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that God was yet to make uſe of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>iction,</hi> had ſtill room
+<pb n="40" facs="tcp:94069:27"/>left for Pardon. For, when the Lord ſaid this, he was not yet Riſen, he was not yet Aſcended into his Glory, and the <hi>PARACLET</hi> was not yet come down. All theſe Great Evidences of Chriſtianity were ſtill wanting, to leave them without excuſe. And doubtleſs many were <hi>Convinc'd</hi> by them, that did not at firſt <hi>believe.</hi> But They are Guilty of Sin and Blaſphemy againſt the H. Ghoſt, who have liv'd ſince the Manifeſtation of that Bleſſed Spirit, and have heard of all the Mighty Things he has wrought in the World to atteſt the Truths of Chri<g ref="char:EOLhyphen"/>ſtianity, and yet continue in their <hi>Unbelief.</hi> This, our Lord declares to be Unpardonable, becauſe Pardon preſuppoſeth Repentance and Faith in our Saviour; but Faith muſt proceed from a <hi>Convic<g ref="char:EOLhyphen"/>tion</hi> of the Mind; and They whom theſe Things will not <hi>Convince,</hi> can never be <hi>Convinc'd:</hi> Becauſe, ſince the Deſcent of the H. Ghoſt, no New Reve<g ref="char:EOLhyphen"/>lation is to be look'd for, all Extraordinary Diſ<g ref="char:EOLhyphen"/>penſations are ceas'd; The Sending of the H. Ghoſt was the Laſt that God had reſolv'd to uſe for the <hi>Conviction</hi> of Men, and we muſt expect no other<note n="*" place="margin">
+                  <hi>Cameron. Myrothec. E<g ref="char:EOLhyphen"/>vang in Loc. ſupr.</hi> Alloquitur Do<g ref="char:EOLhyphen"/>minus Phariſae<g ref="char:EOLhyphen"/>os, qui Patris <hi>Oeconomiam,</hi> quae antè Chri<g ref="char:EOLhyphen"/>ſti Adventum vigebat, inſu<g ref="char:EOLhyphen"/>per habuerant: ſuamitem Blaſ<g ref="char:EOLhyphen"/>phemantes ſpreverant. Ait ergò, licet <hi>Oeconomias</hi> illas, quamdiù duravere, con<g ref="char:EOLhyphen"/>tempſerint, eſſe tamen ſpem ve<g ref="char:EOLhyphen"/>niae ſub <hi>Tertiâ,</hi> quae <hi>Spiritui Sancto</hi> tribui<g ref="char:EOLhyphen"/>tur. <hi>Sancti</hi> ve<g ref="char:EOLhyphen"/>rò <hi>Spiritûs Oe<g ref="char:EOLhyphen"/>conomiam</hi> ſi proſequantur o<g ref="char:EOLhyphen"/>dio, ſublatam eſſe omnem ve<g ref="char:EOLhyphen"/>niaeſpem; quia <hi>Quarta Oeco<g ref="char:EOLhyphen"/>nomia</hi> minimè expectari debet.</note>. Therefore They that doubt ſtill after this, muſt doubt on for ever; Their Caſe is deſperate; and they muſt be abandon'd to their own perverſe and Reprobate Senſe. GOD, in his Infinit Mercy, preſerve us all from Hardneſs of Heart, and from <hi>doing deſpite unto the Spirit of Grace</hi>
+               <note n="(x)" place="margin">Heb. x. 29.</note>. <hi>AMEN.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
